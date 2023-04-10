@@ -1,5 +1,5 @@
 #include<iostream>
-using namespace std ;
+using namespace std;
 int main(){
-  cout<<"testing phase  not implement;
-  }
+  cout<<"features changes from teammates";
+}
